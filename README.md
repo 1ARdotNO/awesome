@@ -6,6 +6,7 @@
 ## Contents
 
   - [C](#c)
+  - [CSS](#css)
   - [Dockerfile](#dockerfile)
   - [Go](#go)
   - [HCL](#hcl)
@@ -23,6 +24,10 @@
 
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [madMAx43v3r/chia-plotter](https://github.com/madMAx43v3r/chia-plotter) - 
+
+## CSS 
+
+- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
 
 ## Dockerfile 
 
@@ -44,6 +49,7 @@
 
 ## JavaScript 
 
+- [imreyesjorge/root-startpage](https://github.com/imreyesjorge/root-startpage) - A simple and clean startpage 🌟
 - [Darkempire78/Discord-Tools](https://github.com/Darkempire78/Discord-Tools) - VSCode extension allowing the integration of a Discord chat, bot templates, snippets, themes and more!
 - [ryanblenis/MeshCentral-ScriptTask](https://github.com/ryanblenis/MeshCentral-ScriptTask) - Scripting plugin for MeshCentral
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
