@@ -31,6 +31,7 @@
 
 ## Dockerfile 
 
+- [jlesage/docker-nginx-proxy-manager](https://github.com/jlesage/docker-nginx-proxy-manager) - Docker container for Nginx Proxy Manager
 - [markdegrootnl/unifi-protect-arm64](https://github.com/markdegrootnl/unifi-protect-arm64) - Run UniFi Protect in Docker on ARM64 hardware
 
 ## Go 
@@ -73,7 +74,7 @@
 ## Python 
 
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
-- [guydavis/machinaris](https://github.com/guydavis/machinaris) - An easy-to-use WebUI for Chia plotting and farming.  Includes Chia, Plotman, MadMax, Chiadog, Bladebit and Flax in a single Docker image.
+- [guydavis/machinaris](https://github.com/guydavis/machinaris) - An easy-to-use WebUI for Chia plotting and farming.  Includes Chia, Plotman, MadMax, Chiadog, Bladebit in a single Docker image.  Additional forks like Flax, NChain, HDDCoin, and Chives available too!
 - [gurnec/btcrecover](https://github.com/gurnec/btcrecover) - An open source Bitcoin wallet password and seed recovery tool designed for the case where you already know most of your password/seed, but need assistance in trying different possible combinations.
 
 ## Shell 
