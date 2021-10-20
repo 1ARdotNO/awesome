@@ -37,7 +37,7 @@
 ## Go 
 
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open Source Photos App powered by Go and Google TensorFlow 🌈
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 
 ## HCL 
@@ -77,7 +77,7 @@
 
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
-- [guydavis/machinaris](https://github.com/guydavis/machinaris) - An easy-to-use WebUI for Chia plotting and farming.  Includes Chia, Plotman, MadMax, Chiadog, Bladebit in a single Docker image.  Additional forks like Flax, NChain, HDDCoin, and Chives available too!
+- [guydavis/machinaris](https://github.com/guydavis/machinaris) - An easy-to-use WebUI for crypto plotting and farming.  Includes  Plotman, MadMax, Chiadog, Bladebit in a single Docker image.  Supports Chia, Chives, Flax, Flora, HDDCoin, and NChain.
 - [gurnec/btcrecover](https://github.com/gurnec/btcrecover) - An open source Bitcoin wallet password and seed recovery tool designed for the case where you already know most of your password/seed, but need assistance in trying different possible combinations.
 
 ## Shell 
