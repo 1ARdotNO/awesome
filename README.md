@@ -17,6 +17,7 @@
   - [Others](#others)
   - [PowerShell](#powershell)
   - [Python](#python)
+  - [SCSS](#scss)
   - [Shell](#shell)
   - [TypeScript](#typescript)
   - [Vue](#vue)
@@ -84,8 +85,12 @@
 
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
-- [guydavis/machinaris](https://github.com/guydavis/machinaris) - An easy-to-use WebUI for crypto plotting and farming.  Includes  Plotman, MadMax, Chiadog, Bladebit in a single Docker image.  Supports Chia, Chives, Flax, Flora, HDDCoin, and NChain.
+- [guydavis/machinaris](https://github.com/guydavis/machinaris) - An easy-to-use WebUI for crypto plotting and farming.  Includes  Plotman, MadMax, Chiadog, Bladebit in a single Docker image.  Supports Chia, Chives, Flax, Flora, HDDCoin, N-Chain, Silicoin, and Staicoin among others.
 - [gurnec/btcrecover](https://github.com/gurnec/btcrecover) - An open source Bitcoin wallet password and seed recovery tool designed for the case where you already know most of your password/seed, but need assistance in trying different possible combinations.
+
+## SCSS 
+
+- [imreyesjorge/cool-showcase](https://github.com/imreyesjorge/cool-showcase) - A simple,fresh and cool showcase 🤓
 
 ## Shell 
 
