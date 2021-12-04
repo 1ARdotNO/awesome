@@ -115,6 +115,7 @@
 
 ## Vue 
 
+- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [emanates/emanates-web](https://github.com/emanates/emanates-web) - Build a blog on top of GitHub Issues and GitHub Actions in a few mins
 
 
