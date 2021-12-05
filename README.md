@@ -10,10 +10,10 @@
   - [CSS](#css)
   - [Dockerfile](#dockerfile)
   - [Go](#go)
-  - [HCL](#hcl)
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jinja](#jinja)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PowerShell](#powershell)
@@ -49,10 +49,6 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 
-## HCL 
-
-- [onedr0p/home-cluster](https://github.com/onedr0p/home-cluster) - My home Kubernetes (k3s) cluster managed by GitOps (Flux)
-
 ## HTML 
 
 - [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
@@ -69,6 +65,10 @@
 - [Darkempire78/Discord-Tools](https://github.com/Darkempire78/Discord-Tools) - VSCode extension allowing the integration of a Discord chat, bot templates, snippets, themes and more!
 - [ryanblenis/MeshCentral-ScriptTask](https://github.com/ryanblenis/MeshCentral-ScriptTask) - Scripting plugin for MeshCentral
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
+
+## Jinja 
+
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices
 
 ## Objective-C 
 
