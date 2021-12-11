@@ -86,6 +86,7 @@
 
 ## PowerShell 
 
+- [PowerShell/Crescendo](https://github.com/PowerShell/Crescendo) - a module for wrapping native applications in a PowerShell function and module
 - [alexdelifer/ZeroTierController-PowerShell](https://github.com/alexdelifer/ZeroTierController-PowerShell) - A PowerShell library to interact with the ZeroTier Network Controller API
 - [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
 - [MrPig91/PSChiaPlotter](https://github.com/MrPig91/PSChiaPlotter) - A repo for powershell module that helps Chia Plotting
