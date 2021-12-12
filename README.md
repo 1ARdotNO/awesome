@@ -51,7 +51,6 @@
 
 ## HTML 
 
-- [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - This is a full computer management web site. With MeshCentral, you can run your own web server and it to remotely manage and control computers on a local network or anywhere on the internet. Once you get the server started, will create a mesh (a group of computers) and then download and install a mesh agent on each computer you want to manage. A minute later, the new computer will show up on the web site and you can take control of it, etc. MeshCentral includes full web-based remote desktop, terminal and file management capability.
 
 ## Java 
@@ -111,6 +110,7 @@
 
 ## TypeScript 
 
+- [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
 - [Azure/autorest.powershell](https://github.com/Azure/autorest.powershell) - AutoRest PowerShell Generator
 - [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Powered by Docker.
 
