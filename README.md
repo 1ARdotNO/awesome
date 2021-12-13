@@ -16,6 +16,7 @@
   - [Jinja](#jinja)
   - [Objective-C](#objective-c)
   - [Others](#others)
+  - [PHP](#php)
   - [PowerShell](#powershell)
   - [Python](#python)
   - [SCSS](#scss)
@@ -82,6 +83,10 @@
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and cheap DIY IP-KVM based on Raspberry Pi
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
+
+## PHP 
+
+- [ChanceM/pfSense-pkg-zerotier](https://github.com/ChanceM/pfSense-pkg-zerotier) - pfSense package to support zerotier.
 
 ## PowerShell 
 
