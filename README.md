@@ -14,6 +14,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jinja](#jinja)
+  - [Mustache](#mustache)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -72,6 +73,10 @@
 ## Jinja 
 
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which tries to adhere to Infrastructure as Code (IaC) and GitOps practices
+
+## Mustache 
+
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - GitOps powered K8s app stack with developer self-service
 
 ## Objective-C 
 
