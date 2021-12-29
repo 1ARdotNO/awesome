@@ -9,6 +9,7 @@
   - [C#](#c#)
   - [CSS](#css)
   - [Dockerfile](#dockerfile)
+  - [GDScript](#gdscript)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -44,6 +45,10 @@
 - [jlesage/docker-nginx-proxy-manager](https://github.com/jlesage/docker-nginx-proxy-manager) - Docker container for Nginx Proxy Manager
 - [markdegrootnl/unifi-protect-arm64](https://github.com/markdegrootnl/unifi-protect-arm64) - Run UniFi Protect in Docker on ARM64 hardware
 
+## GDScript 
+
+- [uralys/fox](https://github.com/uralys/fox) - 🦊 CLI and Components for your Godot app
+
 ## Go 
 
 - [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
@@ -76,7 +81,7 @@
 
 ## Mustache 
 
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - GitOps powered K8s app stack with developer self-service
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - GitOps powered K8s app suite with developer self-service
 
 ## Objective-C 
 
