@@ -34,6 +34,7 @@
 
 ## C# # 
 
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [snakefoot/snaketail-net](https://github.com/snakefoot/snaketail-net) - Tail utility for monitoring text log files and Windows EventLog
 
 ## CSS 
@@ -90,6 +91,7 @@
 
 ## Others 
 
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [smashism/awesome-macadmin-tools](https://github.com/smashism/awesome-macadmin-tools) - 🕶 Awesome Mac Admin Tools list
 - [HomeEnterpriseInc/Home-Setup-Pub](https://github.com/HomeEnterpriseInc/Home-Setup-Pub) - 
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
