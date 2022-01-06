@@ -9,8 +9,8 @@
   - [C#](#c#)
   - [CSS](#css)
   - [Dockerfile](#dockerfile)
-  - [GDScript](#gdscript)
   - [Go](#go)
+  - [HCL](#hcl)
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -46,10 +46,6 @@
 - [jlesage/docker-nginx-proxy-manager](https://github.com/jlesage/docker-nginx-proxy-manager) - Docker container for Nginx Proxy Manager
 - [markdegrootnl/unifi-protect-arm64](https://github.com/markdegrootnl/unifi-protect-arm64) - Run UniFi Protect in Docker on ARM64 hardware
 
-## GDScript 
-
-- [uralys/fox](https://github.com/uralys/fox) - 🦊 CLI and Components for your Godot app
-
 ## Go 
 
 - [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
@@ -58,6 +54,10 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 🎄
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+
+## HCL 
+
+- [fvumbaca/terraform-proxmox-k3s](https://github.com/fvumbaca/terraform-proxmox-k3s) - A terraform module to get k3s up and running on Proxmox VE real quick.
 
 ## HTML 
 
@@ -69,6 +69,7 @@
 
 ## JavaScript 
 
+- [uralys/fox](https://github.com/uralys/fox) - 🦊 CLI and Components for your Godot app
 - [pastisprologue/bitwarden-github-action](https://github.com/pastisprologue/bitwarden-github-action) - A simple interface for accessing items in your Bitwarden Vault
 - [robchahin/sso-wall-of-shame](https://github.com/robchahin/sso-wall-of-shame) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
 - [imreyesjorge/root-startpage](https://github.com/imreyesjorge/root-startpage) - A simple and clean startpage 🌟
@@ -141,7 +142,7 @@
 
 ## Vue 
 
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [emanates/emanates-web](https://github.com/emanates/emanates-web) - Build a blog on top of GitHub Issues and GitHub Actions in a few mins
 
