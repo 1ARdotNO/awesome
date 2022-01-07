@@ -69,7 +69,7 @@
 
 ## JavaScript 
 
-- [uralys/fox](https://github.com/uralys/fox) - 🦊 CLI and Components for your Godot app
+- [uralys/fox](https://github.com/uralys/fox) - 🦊 CLI and Components for Godot apps
 - [pastisprologue/bitwarden-github-action](https://github.com/pastisprologue/bitwarden-github-action) - A simple interface for accessing items in your Bitwarden Vault
 - [robchahin/sso-wall-of-shame](https://github.com/robchahin/sso-wall-of-shame) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
 - [imreyesjorge/root-startpage](https://github.com/imreyesjorge/root-startpage) - A simple and clean startpage 🌟
