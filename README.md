@@ -79,7 +79,7 @@
 
 ## Jinja 
 
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which tries to adhere to Infrastructure as Code (IaC) and GitOps practices
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 
 ## Mustache 
 
