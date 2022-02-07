@@ -84,7 +84,7 @@
 
 ## Mustache 
 
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Pre-configured suite of apps with developer self-service for Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Kubernetes Application Configuration Platform
 
 ## Objective-C 
 
