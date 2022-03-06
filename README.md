@@ -94,6 +94,7 @@
 
 ## Others 
 
+- [cfletcher1856/Kinect-DartScorer](https://github.com/cfletcher1856/Kinect-DartScorer) - Using a XBox Kinect to score dart games
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [smashism/awesome-macadmin-tools](https://github.com/smashism/awesome-macadmin-tools) - 🕶 Awesome Mac Admin Tools list
 - [HomeEnterpriseInc/Home-Setup-Pub](https://github.com/HomeEnterpriseInc/Home-Setup-Pub) - 
@@ -119,6 +120,7 @@
 
 ## Python 
 
+- [hanneshoettinger/opencv-steel-darts](https://github.com/hanneshoettinger/opencv-steel-darts) - Automatic scoring system for steel darts using OpenCV, a Raspberry Pi 3 Model B and two webcams.
 - [globaleaks/GlobaLeaks](https://github.com/globaleaks/GlobaLeaks) - GlobaLeaks is free, open source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
 - [k8s-at-home/awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - Awesome projects involving running Kubernetes at home
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
