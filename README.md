@@ -111,6 +111,7 @@
 
 ## PowerShell 
 
+- [microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations
 - [PowerShell/Crescendo](https://github.com/PowerShell/Crescendo) - a module for wrapping native applications in a PowerShell function and module
 - [alexdelifer/ZeroTierController-PowerShell](https://github.com/alexdelifer/ZeroTierController-PowerShell) - A PowerShell library to interact with the ZeroTier Network Controller API
 - [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
