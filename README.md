@@ -119,6 +119,7 @@
 
 ## Python 
 
+- [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [hanneshoettinger/opencv-steel-darts](https://github.com/hanneshoettinger/opencv-steel-darts) - Automatic scoring system for steel darts using OpenCV, a Raspberry Pi 3 Model B and two webcams.
 - [globaleaks/GlobaLeaks](https://github.com/globaleaks/GlobaLeaks) - GlobaLeaks is free, open source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
 - [k8s-at-home/awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - Awesome projects involving running Kubernetes at home
@@ -134,6 +135,7 @@
 
 ## Shell 
 
+- [envwarden/envwarden](https://github.com/envwarden/envwarden) - Manage your server secrets with Bitwarden
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [ayufan/pve-backup-server-dockerfiles](https://github.com/ayufan/pve-backup-server-dockerfiles) - Unofficial, and unmaintained build of proxmox-backup-server
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
