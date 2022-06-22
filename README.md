@@ -88,6 +88,7 @@
 
 ## Objective-C 
 
+- [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - For Mac users in an Enterprise environment, this app gives the User control over administration of their machine by elevating their level of access to Administrator privileges on macOS.  Users can set
 - [ygini/Hello-IT](https://github.com/ygini/Hello-IT) - Self support apps provided by IT services to end users.
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 
