@@ -12,6 +12,7 @@
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
+- [Haskell](#haskell)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [Mustache](#mustache)
@@ -65,6 +66,10 @@
 ## HTML 
 
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - This is a full computer management web site. With MeshCentral, you can run your own web server and it to remotely manage and control computers on a local network or anywhere on the internet. Once you 
+
+## Haskell 
+
+- [simplex-chat/simplexmq](https://github.com/simplex-chat/simplexmq) - ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
 
 ## JavaScript 
 
