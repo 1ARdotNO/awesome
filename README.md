@@ -101,6 +101,7 @@
 
 ## Others 
 
+- [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite) - Carefully curated list of awesome Appwrite resources 💪
 - [jsonresume/vscode-jsonresume](https://github.com/jsonresume/vscode-jsonresume) - JSONResume creation, validation, and code completion in VSCode
 - [cfletcher1856/Kinect-DartScorer](https://github.com/cfletcher1856/Kinect-DartScorer) - Using a XBox Kinect to score dart games
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
