@@ -42,6 +42,7 @@
 - [javascript](#javascript)
 - [js](#js)
 - [json](#json)
+- [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [linux](#linux)
 - [machine-learning](#machine-learning)
@@ -87,6 +88,7 @@
 
 ## android 
 
+- [divkit/divkit](https://github.com/divkit/divkit) - DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
 - [uralys/fox](https://github.com/uralys/fox) - 🦊 CLI and Components for Godot apps
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 
@@ -247,6 +249,7 @@
 
 ## ios 
 
+- [divkit/divkit](https://github.com/divkit/divkit) - DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
 - [uralys/fox](https://github.com/uralys/fox) - 🦊 CLI and Components for Godot apps
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 
@@ -266,8 +269,13 @@
 
 ## json 
 
+- [divkit/divkit](https://github.com/divkit/divkit) - DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
 - [jsonresume/vscode-jsonresume](https://github.com/jsonresume/vscode-jsonresume) - JSONResume creation, validation, and code completion in VSCode
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
+
+## kotlin 
+
+- [divkit/divkit](https://github.com/divkit/divkit) - DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
 
 ## kubernetes 
 
@@ -427,6 +435,7 @@
 
 ## swift 
 
+- [divkit/divkit](https://github.com/divkit/divkit) - DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 
 ## symfony 
@@ -450,6 +459,7 @@
 
 ## typescript 
 
+- [divkit/divkit](https://github.com/divkit/divkit) - DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
 - [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
 - [Darkempire78/Discord-Tools](https://github.com/Darkempire78/Discord-Tools) - VSCode extension allowing the integration of a Discord chat, bot templates, snippets, themes and more!
 
@@ -463,6 +473,7 @@
 
 ## web 
 
+- [divkit/divkit](https://github.com/divkit/divkit) - DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 
 ## website 
