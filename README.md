@@ -6,6 +6,7 @@
 ## Contents
 
 - [ai](#ai)
+- [algorithm](#algorithm)
 - [android](#android)
 - [ansible](#ansible)
 - [api](#api)
@@ -20,6 +21,7 @@
 - [coding](#coding)
 - [cryptocurrency](#cryptocurrency)
 - [csharp](#csharp)
+- [data-structures](#data-structures)
 - [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
@@ -87,6 +89,10 @@
 
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+
+## algorithm 
+
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
 ## android 
 
@@ -163,6 +169,10 @@
 ## csharp 
 
 - [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+
+## data-structures 
+
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
 ## devops 
 
