@@ -368,6 +368,7 @@
 
 ## others 
 
+- [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)
 - [orbiously/zerotier-orb](https://github.com/orbiously/zerotier-orb) - Join a ZeroTier network and use another ZeroTier member as a jump/bastion host.
 - [Romanitho/Winget-Install](https://github.com/Romanitho/Winget-Install) - Powershell scripts for Winget with SCCM/Intune
 - [hherman1/I](https://github.com/hherman1/I) - Make CLIs into GUIs in the Acme editor
