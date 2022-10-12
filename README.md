@@ -328,6 +328,7 @@
 
 ## macos 
 
+- [jamf/PPPC-Utility](https://github.com/jamf/PPPC-Utility) - Privacy Preferences Policy Control (PPPC) Utility
 - [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - For Mac users in an Enterprise environment, this app gives the User control over administration of their machine by elevating their level of access to Administrator privileges on macOS.  Users can set
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [smashism/awesome-macadmin-tools](https://github.com/smashism/awesome-macadmin-tools) - 🕶 Awesome Mac Admin Tools list
@@ -368,6 +369,7 @@
 
 ## others 
 
+- [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS —
 - [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)
 - [orbiously/zerotier-orb](https://github.com/orbiously/zerotier-orb) - Join a ZeroTier network and use another ZeroTier member as a jump/bastion host.
 - [Romanitho/Winget-Install](https://github.com/Romanitho/Winget-Install) - Powershell scripts for Winget with SCCM/Intune
