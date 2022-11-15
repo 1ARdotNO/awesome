@@ -384,7 +384,7 @@
 - [fvumbaca/terraform-proxmox-k3s](https://github.com/fvumbaca/terraform-proxmox-k3s) - A terraform module to get k3s up and running on Proxmox VE real quick.
 - [gregneagle/CreateUserPkg](https://github.com/gregneagle/CreateUserPkg) - Create packages to deploy Mac OS X user accounts
 - [pastisprologue/bitwarden-github-action](https://github.com/pastisprologue/bitwarden-github-action) - A simple interface for accessing items in your Bitwarden Vault
-- [k8s-at-home/awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - Awesome projects involving running Kubernetes at home
+- [k8s-at-home/awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - ⚠️ Deprecated: Awesome projects involving running Kubernetes at home
 - [ChanceM/pfSense-pkg-zerotier](https://github.com/ChanceM/pfSense-pkg-zerotier) - pfSense package to support zerotier.
 - [PowerShell/Crescendo](https://github.com/PowerShell/Crescendo) - a module for wrapping native applications in a PowerShell function and module
 - [robchahin/sso-wall-of-shame](https://github.com/robchahin/sso-wall-of-shame) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
@@ -411,6 +411,7 @@
 
 ## powershell 
 
+- [stefanes/PSTibber](https://github.com/stefanes/PSTibber) - PowerShell module for accessing the Tibber GraphQL API
 - [PowerShell/platyPS](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown
 - [microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
