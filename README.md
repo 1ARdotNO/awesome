@@ -7,6 +7,7 @@
 
 - [ai](#ai)
 - [algorithm](#algorithm)
+- [analytics](#analytics)
 - [android](#android)
 - [ansible](#ansible)
 - [api](#api)
@@ -94,6 +95,10 @@
 ## algorithm 
 
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+
+## analytics 
+
+- [emanates/emanates-web](https://github.com/emanates/emanates-web) - Build a blog on top of GitHub Issues and GitHub Actions in a few mins
 
 ## android 
 
@@ -376,6 +381,7 @@
 
 ## others 
 
+- [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) - 
 - [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS —
 - [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)
 - [orbiously/zerotier-orb](https://github.com/orbiously/zerotier-orb) - Join a ZeroTier network and use another ZeroTier member as a jump/bastion host.
@@ -402,7 +408,6 @@
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [ryanblenis/MeshCentral-ScriptTask](https://github.com/ryanblenis/MeshCentral-ScriptTask) - Scripting plugin for MeshCentral
 - [alexdelifer/ZeroTierController-PowerShell](https://github.com/alexdelifer/ZeroTierController-PowerShell) - A PowerShell library to interact with the ZeroTier Network Controller API
-- [emanates/emanates-web](https://github.com/emanates/emanates-web) - Build a blog on top of GitHub Issues and GitHub Actions in a few mins
 - [Azure/autorest.powershell](https://github.com/Azure/autorest.powershell) - AutoRest PowerShell Generator
 - [markdegrootnl/unifi-protect-arm64](https://github.com/markdegrootnl/unifi-protect-arm64) - Run UniFi Protect in Docker on ARM64 hardware
 - [madMAx43v3r/chia-plotter](https://github.com/madMAx43v3r/chia-plotter) - 
