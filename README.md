@@ -382,6 +382,7 @@
 
 ## others 
 
+- [oleeskild/digitalgarden](https://github.com/oleeskild/digitalgarden) - 
 - [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) - 
 - [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS —
 - [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)
