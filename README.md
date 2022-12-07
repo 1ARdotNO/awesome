@@ -382,6 +382,7 @@
 
 ## others 
 
+- [ConnyCola/SolderingStation](https://github.com/ConnyCola/SolderingStation) - Schemetics and Code for a DIY weller soldering station
 - [oleeskild/digitalgarden](https://github.com/oleeskild/digitalgarden) - 
 - [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) - 
 - [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS —
