@@ -378,6 +378,7 @@
 
 ## others 
 
+- [JayRHa/Intune-App-Creator](https://github.com/JayRHa/Intune-App-Creator) - 
 - [mislav/gh-repo-collab](https://github.com/mislav/gh-repo-collab) - GitHub CLI extension to manage repository collaborators
 - [ConnyCola/SolderingStation](https://github.com/ConnyCola/SolderingStation) - Schemetics and Code for a DIY weller soldering station
 - [oleeskild/digitalgarden](https://github.com/oleeskild/digitalgarden) - 
