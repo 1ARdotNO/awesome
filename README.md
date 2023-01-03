@@ -30,6 +30,7 @@
 - [dotnet](#dotnet)
 - [firebase](#firebase)
 - [flutter](#flutter)
+- [game](#game)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -222,6 +223,10 @@
 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 
+## game 
+
+- [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
+
 ## git 
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -239,6 +244,7 @@
 
 ## golang 
 
+- [Cian911/switchboard](https://github.com/Cian911/switchboard) - Auto-magic file organisation and routing for all your machines. :open_file_folder:
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
@@ -261,6 +267,7 @@
 
 ## hacktoberfest 
 
+- [Cian911/switchboard](https://github.com/Cian911/switchboard) - Auto-magic file organisation and routing for all your machines. :open_file_folder:
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite) - Carefully curated list of awesome Appwrite resources 💪
@@ -294,6 +301,7 @@
 
 ## javascript 
 
+- [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
@@ -368,6 +376,7 @@
 
 ## open-source 
 
+- [Cian911/switchboard](https://github.com/Cian911/switchboard) - Auto-magic file organisation and routing for all your machines. :open_file_folder:
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 - [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - For Mac users in an Enterprise environment, this app gives the User control over administration of their machine by elevating their level of access to Administrator privileges on macOS.  Users can set
@@ -378,6 +387,7 @@
 
 ## others 
 
+- [zerotier/github-action](https://github.com/zerotier/github-action) - 
 - [JayRHa/Intune-App-Creator](https://github.com/JayRHa/Intune-App-Creator) - 
 - [mislav/gh-repo-collab](https://github.com/mislav/gh-repo-collab) - GitHub CLI extension to manage repository collaborators
 - [ConnyCola/SolderingStation](https://github.com/ConnyCola/SolderingStation) - Schemetics and Code for a DIY weller soldering station
