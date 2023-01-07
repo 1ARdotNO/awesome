@@ -389,7 +389,7 @@
 
 - [DanTup/github-codespaces-flutter-web](https://github.com/DanTup/github-codespaces-flutter-web) - 
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
-- [zerotier/github-action](https://github.com/zerotier/github-action) - 
+- [zerotier/github-action](https://github.com/zerotier/github-action) - A Github Action for ZeroTier
 - [JayRHa/Intune-App-Creator](https://github.com/JayRHa/Intune-App-Creator) - 
 - [mislav/gh-repo-collab](https://github.com/mislav/gh-repo-collab) - GitHub CLI extension to manage repository collaborators
 - [ConnyCola/SolderingStation](https://github.com/ConnyCola/SolderingStation) - Schemetics and Code for a DIY weller soldering station
