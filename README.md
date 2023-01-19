@@ -237,6 +237,7 @@
 
 ## go 
 
+- [waldirborbajr/kvstok](https://github.com/waldirborbajr/kvstok) - KVSToK - is a CLI-base KEY VALUE storage
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -244,6 +245,7 @@
 
 ## golang 
 
+- [waldirborbajr/kvstok](https://github.com/waldirborbajr/kvstok) - KVSToK - is a CLI-base KEY VALUE storage
 - [Cian911/switchboard](https://github.com/Cian911/switchboard) - Auto-magic file organisation and routing for all your machines. :open_file_folder:
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -267,6 +269,7 @@
 
 ## hacktoberfest 
 
+- [waldirborbajr/kvstok](https://github.com/waldirborbajr/kvstok) - KVSToK - is a CLI-base KEY VALUE storage
 - [Cian911/switchboard](https://github.com/Cian911/switchboard) - Auto-magic file organisation and routing for all your machines. :open_file_folder:
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
