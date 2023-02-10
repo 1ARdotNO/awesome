@@ -387,6 +387,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 - [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - For Mac users in an Enterprise environment, this app gives the User control over administration of their machine by elevating their level of access to Administrator privileges on macOS.  Users can set
+- [globaleaks/GlobaLeaks](https://github.com/globaleaks/GlobaLeaks) - GlobaLeaks is free, open source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
 
 ## opencv 
 
@@ -559,6 +560,7 @@
 
 ## vue 
 
+- [ashutoshkrris/TechyWrite](https://github.com/ashutoshkrris/TechyWrite) - Find a curated collection of active publishers, publications, and agencies that pay fair rates for high-quality technical content
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
 ## web 
