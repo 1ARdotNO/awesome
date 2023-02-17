@@ -157,7 +157,7 @@
 
 ## blockchain 
 
-- [guydavis/machinaris](https://github.com/guydavis/machinaris) - An easy-to-use WebUI for crypto plotting and farming.  Offers Plotman, MadMax, Chiadog, Bladebit, Farmr, and Forktools in a Docker container.  Supports Chia, MMX, Chives, Flax, HDDCoin, and BPX among 
+- [guydavis/machinaris](https://github.com/guydavis/machinaris) - An easy-to-use WebUI for crypto plotting and farming.  Offers Bladebit, Gigahorse, MadMax, Chiadog and Forktools in a Docker container.  Supports Chia, MMX, Chives, Flax, HDDCoin, and BPX among others
 
 ## bootstrap 
 
@@ -180,7 +180,7 @@
 
 ## cryptocurrency 
 
-- [guydavis/machinaris](https://github.com/guydavis/machinaris) - An easy-to-use WebUI for crypto plotting and farming.  Offers Plotman, MadMax, Chiadog, Bladebit, Farmr, and Forktools in a Docker container.  Supports Chia, MMX, Chives, Flax, HDDCoin, and BPX among 
+- [guydavis/machinaris](https://github.com/guydavis/machinaris) - An easy-to-use WebUI for crypto plotting and farming.  Offers Bladebit, Gigahorse, MadMax, Chiadog and Forktools in a Docker container.  Supports Chia, MMX, Chives, Flax, HDDCoin, and BPX among others
 
 ## csharp 
 
