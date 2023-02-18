@@ -157,7 +157,7 @@
 
 ## blockchain 
 
-- [guydavis/machinaris](https://github.com/guydavis/machinaris) - An easy-to-use WebUI for crypto plotting and farming.  Offers Bladebit, Gigahorse, MadMax, Chiadog and Forktools in a Docker container.  Supports Chia, MMX, Chives, Flax, HDDCoin, and BPX among others
+- [guydavis/machinaris](https://github.com/guydavis/machinaris) - An easy-to-use WebUI for crypto plotting and farming.  Offers Bladebit, Gigahorse, MadMax, Chiadog and Plotman in a Docker container.  Supports Chia, MMX, Chives, Flax, HDDCoin, and BPX among others.
 
 ## bootstrap 
 
@@ -180,7 +180,7 @@
 
 ## cryptocurrency 
 
-- [guydavis/machinaris](https://github.com/guydavis/machinaris) - An easy-to-use WebUI for crypto plotting and farming.  Offers Bladebit, Gigahorse, MadMax, Chiadog and Forktools in a Docker container.  Supports Chia, MMX, Chives, Flax, HDDCoin, and BPX among others
+- [guydavis/machinaris](https://github.com/guydavis/machinaris) - An easy-to-use WebUI for crypto plotting and farming.  Offers Bladebit, Gigahorse, MadMax, Chiadog and Plotman in a Docker container.  Supports Chia, MMX, Chives, Flax, HDDCoin, and BPX among others.
 
 ## csharp 
 
@@ -236,6 +236,7 @@
 
 ## github 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 
 ## go 
@@ -272,6 +273,7 @@
 
 ## hacktoberfest 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [waldirborbajr/kvstok](https://github.com/waldirborbajr/kvstok) - KVSToK - is a CLI-base KEY VALUE storage
 - [Cian911/switchboard](https://github.com/Cian911/switchboard) - Auto-magic file organisation and routing for all your machines. :open_file_folder:
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network
@@ -307,6 +309,7 @@
 
 ## javascript 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
@@ -370,6 +373,7 @@
 
 ## nextjs 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 
 ## nodejs 
@@ -467,6 +471,7 @@
 
 ## react 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 - [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
@@ -474,6 +479,7 @@
 
 ## reactjs 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
 
 ## rest-api 
