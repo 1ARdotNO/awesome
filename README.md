@@ -61,6 +61,7 @@
 - [others](#others)
 - [php](#php)
 - [powershell](#powershell)
+- [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
 - [raspberry-pi](#raspberry-pi)
@@ -236,6 +237,7 @@
 
 ## github 
 
+- [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 
@@ -273,6 +275,8 @@
 
 ## hacktoberfest 
 
+- [openziti/fabric](https://github.com/openziti/fabric) - Geo-scale overlay network and core network programming model
+- [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [waldirborbajr/kvstok](https://github.com/waldirborbajr/kvstok) - KVSToK - is a CLI-base KEY VALUE storage
 - [Cian911/switchboard](https://github.com/Cian911/switchboard) - Auto-magic file organisation and routing for all your machines. :open_file_folder:
@@ -453,6 +457,10 @@
 - [microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
+
+## publishing 
+
+- [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
 
 ## pwa 
 
