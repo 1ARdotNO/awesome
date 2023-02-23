@@ -70,6 +70,7 @@
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
 - [rust](#rust)
+- [sdn](#sdn)
 - [security](#security)
 - [server](#server)
 - [serverless](#serverless)
@@ -206,6 +207,7 @@
 
 ## docker 
 
+- [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [vwxyzjn/portwarden](https://github.com/vwxyzjn/portwarden) - Create Encrypted Backups of Your Bitwarden Vault with Attachments
@@ -382,6 +384,7 @@
 
 ## nodejs 
 
+- [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 - [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
 
@@ -479,6 +482,7 @@
 
 ## react 
 
+- [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 - [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
@@ -502,6 +506,10 @@
 
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
+
+## sdn 
+
+- [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller.
 
 ## security 
 
