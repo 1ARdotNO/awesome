@@ -58,6 +58,7 @@
 - [objective-c](#objective-c)
 - [open-source](#open-source)
 - [opencv](#opencv)
+- [operating-system](#operating-system)
 - [others](#others)
 - [php](#php)
 - [powershell](#powershell)
@@ -363,6 +364,7 @@
 
 ## macos 
 
+- [Macjutsu/super](https://github.com/Macjutsu/super) - S.U.P.E.R.M.A.N. optimizes the macOS software update experience.
 - [jamf/PPPC-Utility](https://github.com/jamf/PPPC-Utility) - Privacy Preferences Policy Control (PPPC) Utility
 - [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - For Mac users in an Enterprise environment, this app gives the User control over administration of their machine by elevating their level of access to Administrator privileges on macOS.  Users can set
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
@@ -406,6 +408,10 @@
 ## opencv 
 
 - [hanneshoettinger/opencv-steel-darts](https://github.com/hanneshoettinger/opencv-steel-darts) - Automatic scoring system for steel darts using OpenCV, a Raspberry Pi 3 Model B and two webcams.
+
+## operating-system 
+
+- [Macjutsu/super](https://github.com/Macjutsu/super) - S.U.P.E.R.M.A.N. optimizes the macOS software update experience.
 
 ## others 
 
@@ -459,6 +465,7 @@
 
 ## powershell 
 
+- [Amadevus/pwsh-script](https://github.com/Amadevus/pwsh-script) - GitHub Action to run PowerShell scripts in a rich, prepared scope - inspired by actions/github-script.
 - [stefanes/PSTibber](https://github.com/stefanes/PSTibber) - PowerShell module for accessing the Tibber GraphQL API
 - [PowerShell/platyPS](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown
 - [microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations
