@@ -87,6 +87,7 @@
 - [typescript](#typescript)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [website](#website)
 - [windows](#windows)
@@ -465,6 +466,7 @@
 
 ## powershell 
 
+- [jdhitsolutions/WingetTools](https://github.com/jdhitsolutions/WingetTools) - A set of PowerShell tools for working with the winget package manager.
 - [Amadevus/pwsh-script](https://github.com/Amadevus/pwsh-script) - GitHub Action to run PowerShell scripts in a rich, prepared scope - inspired by actions/github-script.
 - [stefanes/PSTibber](https://github.com/stefanes/PSTibber) - PowerShell module for accessing the Tibber GraphQL API
 - [PowerShell/platyPS](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown
@@ -595,6 +597,12 @@
 
 - [ashutoshkrris/TechyWrite](https://github.com/ashutoshkrris/TechyWrite) - Find a curated collection of active publishers, publications, and agencies that pay fair rates for high-quality technical content
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+
+## vuejs 
+
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
 
 ## web 
 
