@@ -87,7 +87,6 @@
 - [typescript](#typescript)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
-- [vuejs](#vuejs)
 - [web](#web)
 - [website](#website)
 - [windows](#windows)
@@ -211,6 +210,7 @@
 
 ## docker 
 
+- [muchobien/pocketbase-docker](https://github.com/muchobien/pocketbase-docker) - Pocketbase docker image
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
@@ -416,6 +416,7 @@
 
 ## others 
 
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [DanTup/github-codespaces-flutter-web](https://github.com/DanTup/github-codespaces-flutter-web) - 
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
@@ -597,12 +598,6 @@
 
 - [ashutoshkrris/TechyWrite](https://github.com/ashutoshkrris/TechyWrite) - Find a curated collection of active publishers, publications, and agencies that pay fair rates for high-quality technical content
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-
-## vuejs 
-
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-- [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
 
 ## web 
 
