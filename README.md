@@ -89,6 +89,7 @@
 - [typescript](#typescript)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [website](#website)
 - [windows](#windows)
@@ -427,6 +428,7 @@
 
 ## others 
 
+- [just-trey/ankermake-m5-profile](https://github.com/just-trey/ankermake-m5-profile) - Base repo for AnkerMake M5 configurations for Cura and PrusaSlicer.
 - [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere.
 - [azimjohn/jprq](https://github.com/azimjohn/jprq) - join public router. quickly.
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
@@ -611,6 +613,12 @@
 
 - [ashutoshkrris/TechyWrite](https://github.com/ashutoshkrris/TechyWrite) - Find a curated collection of active publishers, publications, and agencies that pay fair rates for high-quality technical content
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+
+## vuejs 
+
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
 
 ## web 
 
