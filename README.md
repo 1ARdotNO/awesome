@@ -432,6 +432,8 @@
 
 ## others 
 
+- [mozilla-services/syncserver](https://github.com/mozilla-services/syncserver) - Run-Your-Own Firefox Sync Server
+- [MSEndpointMgr/IntuneWin32App](https://github.com/MSEndpointMgr/IntuneWin32App) - Provides a set of functions to manage all aspects of Win32 apps in Microsoft Endpoint Manager (Intune).
 - [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) - Argo-CD Autopilot
 - [just-trey/ankermake-m5-profile](https://github.com/just-trey/ankermake-m5-profile) - Base repo for AnkerMake M5 configurations for Cura and PrusaSlicer.
 - [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere.
