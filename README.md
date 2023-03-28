@@ -432,6 +432,7 @@
 
 ## others 
 
+- [wavemechanics/terraform-provider-hurricane](https://github.com/wavemechanics/terraform-provider-hurricane) - Terraform provider for Hurricane Electric DNS
 - [mozilla-services/syncserver](https://github.com/mozilla-services/syncserver) - Run-Your-Own Firefox Sync Server
 - [MSEndpointMgr/IntuneWin32App](https://github.com/MSEndpointMgr/IntuneWin32App) - Provides a set of functions to manage all aspects of Win32 apps in Microsoft Endpoint Manager (Intune).
 - [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) - Argo-CD Autopilot
