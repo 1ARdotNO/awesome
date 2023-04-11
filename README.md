@@ -437,6 +437,7 @@
 
 ## others 
 
+- [udp-redux/udp-broadcast-relay-redux](https://github.com/udp-redux/udp-broadcast-relay-redux) - Small daemon to relay udp broadcast / multicast packages on a different subnet.
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [wavemechanics/terraform-provider-hurricane](https://github.com/wavemechanics/terraform-provider-hurricane) - Terraform provider for Hurricane Electric DNS
 - [mozilla-services/syncserver](https://github.com/mozilla-services/syncserver) - Run-Your-Own Firefox Sync Server
