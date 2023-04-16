@@ -31,6 +31,7 @@
 - [firebase](#firebase)
 - [flutter](#flutter)
 - [game](#game)
+- [gh-extension](#gh-extension)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -246,6 +247,10 @@
 
 - [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 
+## gh-extension 
+
+- [mislav/gh-repo-collab](https://github.com/mislav/gh-repo-collab) - GitHub CLI extension to manage repository collaborators
+
 ## git 
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -452,7 +457,6 @@
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [zerotier/github-action](https://github.com/zerotier/github-action) - A Github Action for ZeroTier
 - [JayRHa/Intune-App-Creator](https://github.com/JayRHa/Intune-App-Creator) - 
-- [mislav/gh-repo-collab](https://github.com/mislav/gh-repo-collab) - GitHub CLI extension to manage repository collaborators
 - [ConnyCola/SolderingStation](https://github.com/ConnyCola/SolderingStation) - Schemetics and Code for a DIY weller soldering station
 - [oleeskild/digitalgarden](https://github.com/oleeskild/digitalgarden) - 
 - [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) - 
