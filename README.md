@@ -241,7 +241,7 @@
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [vwxyzjn/portwarden](https://github.com/vwxyzjn/portwarden) - Create Encrypted Backups of Your Bitwarden Vault with Attachments
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
+- [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sess
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
@@ -580,7 +580,7 @@
 
 ## reverse-engineering 
 
-- [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
+- [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sess
 
 ## rust 
 
@@ -605,7 +605,7 @@
 - [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
 - [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
-- [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
+- [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sess
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 
