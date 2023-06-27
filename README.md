@@ -33,6 +33,7 @@
 - [firebase](#firebase)
 - [flutter](#flutter)
 - [game](#game)
+- [gamedev](#gamedev)
 - [gh-extension](#gh-extension)
 - [git](#git)
 - [github](#github)
@@ -262,6 +263,10 @@
 
 - [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 
+## gamedev 
+
+- [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
+
 ## gh-extension 
 
 - [mislav/gh-repo-collab](https://github.com/mislav/gh-repo-collab) - GitHub CLI extension to manage repository collaborators
@@ -324,7 +329,6 @@
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
@@ -494,7 +498,6 @@
 - [fvumbaca/terraform-proxmox-k3s](https://github.com/fvumbaca/terraform-proxmox-k3s) - A terraform module to get k3s up and running on Proxmox VE real quick.
 - [gregneagle/CreateUserPkg](https://github.com/gregneagle/CreateUserPkg) - Create packages to deploy Mac OS X user accounts
 - [pastisprologue/bitwarden-github-action](https://github.com/pastisprologue/bitwarden-github-action) - A simple interface for accessing items in your Bitwarden Vault
-- [k8s-at-home/awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - ⚠️ Deprecated: Awesome projects involving running Kubernetes at home
 - [ChanceM/pfSense-pkg-zerotier](https://github.com/ChanceM/pfSense-pkg-zerotier) - pfSense package to support zerotier.
 - [PowerShell/Crescendo](https://github.com/PowerShell/Crescendo) - a module for wrapping native applications in a PowerShell function and module
 - [robchahin/sso-wall-of-shame](https://github.com/robchahin/sso-wall-of-shame) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
