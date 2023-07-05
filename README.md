@@ -335,6 +335,7 @@
 
 ## home-assistant 
 
+- [sindrebroch/ha-elvia](https://github.com/sindrebroch/ha-elvia) - Custom components for HomeAssistant to fetch grid-rent
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 
 ## html 
