@@ -11,6 +11,7 @@
 - [android](#android)
 - [ansible](#ansible)
 - [api](#api)
+- [artificial-intelligence](#artificial-intelligence)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [aws](#aws)
@@ -137,6 +138,10 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
+## artificial-intelligence 
+
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
+
 ## awesome 
 
 - [best-of-lists/best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
@@ -187,6 +192,7 @@
 
 ## chatgpt 
 
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [ricobuilds/gpt2markdown](https://github.com/ricobuilds/gpt2markdown) - A browser extension that exports your ChatGPT conversations to Markdown format.
 
 ## cli 
