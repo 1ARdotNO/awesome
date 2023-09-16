@@ -476,6 +476,8 @@
 
 ## others 
 
+- [rohitsangwan01/pocketbase_server_flutter](https://github.com/rohitsangwan01/pocketbase_server_flutter) - Pocketbase server using mobile with flutter
+- [benallfree/awesome-pocketbase](https://github.com/benallfree/awesome-pocketbase) - 
 - [longy2k/obsidian-bmo-chatbot](https://github.com/longy2k/obsidian-bmo-chatbot) - Generate and brainstorm ideas while creating your notes using Large Language Models (LLMs) such as OpenAI's "gpt-3.5-turbo" and "gpt-4" for Obsidian.
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 - [udp-redux/udp-broadcast-relay-redux](https://github.com/udp-redux/udp-broadcast-relay-redux) - Small daemon to relay udp broadcast / multicast packages on a different subnet.
