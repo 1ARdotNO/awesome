@@ -42,6 +42,7 @@
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
 - [google](#google)
+- [google-cloud](#google-cloud)
 - [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
@@ -260,6 +261,7 @@
 
 ## firebase 
 
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
 
 ## flutter 
@@ -318,12 +320,17 @@
 
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 
+## google-cloud 
+
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+
 ## graphql 
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
 ## hacktoberfest 
 
+- [kairos-io/kairos](https://github.com/kairos-io/kairos) - :penguin: The immutable Linux meta-distribution for edge Kubernetes.
 - [appwrite/demos-for-react](https://github.com/appwrite/demos-for-react) - Demos and tutorials for getting started with Appwrite + React JS
 - [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
@@ -476,6 +483,7 @@
 
 ## others 
 
+- [R34LiAM/HA-Roller](https://github.com/R34LiAM/HA-Roller) - 
 - [rohitsangwan01/pocketbase_server_flutter_app](https://github.com/rohitsangwan01/pocketbase_server_flutter_app) - Pocketbase server using mobile with flutter
 - [benallfree/awesome-pocketbase](https://github.com/benallfree/awesome-pocketbase) - 
 - [longy2k/obsidian-bmo-chatbot](https://github.com/longy2k/obsidian-bmo-chatbot) - Generate and brainstorm ideas while creating your notes using Large Language Models (LLMs) such as OpenAI's "gpt-3.5-turbo" and "gpt-4" for Obsidian.
@@ -583,6 +591,7 @@
 
 ## react 
 
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [appwrite/demos-for-react](https://github.com/appwrite/demos-for-react) - Demos and tutorials for getting started with Appwrite + React JS
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller.
@@ -695,6 +704,7 @@
 
 ## typescript 
 
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
