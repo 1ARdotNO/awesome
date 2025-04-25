@@ -152,7 +152,7 @@
 
 ## ai 
 
-- [ricomeetsworld/gpt2markdown](https://github.com/ricomeetsworld/gpt2markdown) - A browser extension that exports your ChatGPT conversations to Markdown format.
+- [yooreekz/gpt2markdown](https://github.com/yooreekz/gpt2markdown) - A browser extension that exports your ChatGPT conversations to Markdown format.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 
@@ -264,7 +264,7 @@
 ## chatgpt 
 
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
-- [ricomeetsworld/gpt2markdown](https://github.com/ricomeetsworld/gpt2markdown) - A browser extension that exports your ChatGPT conversations to Markdown format.
+- [yooreekz/gpt2markdown](https://github.com/yooreekz/gpt2markdown) - A browser extension that exports your ChatGPT conversations to Markdown format.
 
 ## cli 
 
@@ -748,6 +748,7 @@
 
 ## others 
 
+- [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
