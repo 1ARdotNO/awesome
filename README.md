@@ -94,6 +94,7 @@
 - [nodejs](#nodejs)
 - [nosql](#nosql)
 - [objective-c](#objective-c)
+- [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
 - [openai](#openai)
 - [opencv](#opencv)
@@ -718,6 +719,10 @@
 
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 
+## obsidian-plugin 
+
+- [longy2k/obsidian-bmo-chatbot](https://github.com/longy2k/obsidian-bmo-chatbot) - Generate and brainstorm ideas while creating your notes using Large Language Models (LLMs) from Ollama, LM Studio, Anthropic, Google Gemini, Mistral AI, OpenAI, and more for Obsidian.
+
 ## open-source 
 
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
@@ -767,7 +772,6 @@
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [R34LiAM/HA-Roller](https://github.com/R34LiAM/HA-Roller) - 
 - [rohitsangwan01/pocketbase_server_flutter_app](https://github.com/rohitsangwan01/pocketbase_server_flutter_app) - Pocketbase server using mobile with flutter
-- [longy2k/obsidian-bmo-chatbot](https://github.com/longy2k/obsidian-bmo-chatbot) - Generate and brainstorm ideas while creating your notes using Large Language Models (LLMs) from Ollama, LM Studio, Anthropic, Google Gemini, Mistral AI, OpenAI, and more for Obsidian.
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 - [udp-redux/udp-broadcast-relay-redux](https://github.com/udp-redux/udp-broadcast-relay-redux) - Small daemon to relay udp broadcast / multicast packages on a different subnet.
 - [wavemechanics/terraform-provider-hurricane](https://github.com/wavemechanics/terraform-provider-hurricane) - Terraform provider for Hurricane Electric DNS
