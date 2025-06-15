@@ -68,6 +68,7 @@
 - [home-assistant](#home-assistant)
 - [html](#html)
 - [http](#http)
+- [image-processing](#image-processing)
 - [ios](#ios)
 - [ipfs](#ipfs)
 - [java](#java)
@@ -552,6 +553,10 @@
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
+## image-processing 
+
+- [fabriziosalmi/brandkit](https://github.com/fabriziosalmi/brandkit) - Yet another brand assets generator
+
 ## ios 
 
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -755,6 +760,7 @@
 
 ## others 
 
+- [fabriziosalmi/tubeconv](https://github.com/fabriziosalmi/tubeconv) - Convert social videos to high-quality MP3 files
 - [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
