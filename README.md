@@ -70,6 +70,7 @@
 - [html](#html)
 - [http](#http)
 - [image-processing](#image-processing)
+- [information-gathering](#information-gathering)
 - [ios](#ios)
 - [ipfs](#ipfs)
 - [java](#java)
@@ -565,6 +566,10 @@
 ## image-processing 
 
 - [fabriziosalmi/brandkit](https://github.com/fabriziosalmi/brandkit) - Yet another brand assets generator
+
+## information-gathering 
+
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
 ## ios 
 
