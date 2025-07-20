@@ -26,6 +26,7 @@
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
+- [cms](#cms)
 - [coding](#coding)
 - [computer-science](#computer-science)
 - [cryptocurrency](#cryptocurrency)
@@ -284,6 +285,11 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 - [uralys/fox](https://github.com/uralys/fox) - 🦊 Tooling for Godot 4.4
+
+## cms 
+
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
 
 ## coding 
 
