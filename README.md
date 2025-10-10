@@ -571,7 +571,6 @@
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
 - [clementwzk/Discord-Tools](https://github.com/clementwzk/Discord-Tools) - VSCode extension allowing the integration of a Discord chat, bot templates, snippets, themes and more!
@@ -804,7 +803,7 @@
 ## others 
 
 - [heyitsnoah/claudesidian](https://github.com/heyitsnoah/claudesidian) - 
-- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Modern Open-Source Alternative to NSSM, WinSW, AlwaysUp & FireDaemon
+- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service — Modern Open-Source Alternative to NSSM, WinSW, AlwaysUp & FireDaemon
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - 
 - [fabriziosalmi/tubeconv](https://github.com/fabriziosalmi/tubeconv) - Convert social videos to high-quality MP3 files
