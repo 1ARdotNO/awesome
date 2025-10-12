@@ -819,7 +819,7 @@
 - [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo & File Management System
 - [AndBu/YAIFM](https://github.com/AndBu/YAIFM) - An affordable drop-in motor and control system for automating IKEA Fridans blinds.
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
-- [Set-OutlookSignatures/Set-OutlookSignatures](https://github.com/Set-OutlookSignatures/Set-OutlookSignatures) - Email signatures and out-of-office replies for Exchange and all of Outlook. Full-featured, cost-effective, unsurpassed data privacy.
+- [Set-OutlookSignatures/Set-OutlookSignatures](https://github.com/Set-OutlookSignatures/Set-OutlookSignatures) - Email signatures and out-of-office replies for Exchange and Outlook. Full-featured, cost-effective, unsurpassed data privacy.
 - [Weatherlights/Winget-AutoUpdate-Intune](https://github.com/Weatherlights/Winget-AutoUpdate-Intune) - WAUaaS daily updates apps as system and notify users. WAUaaS brings you WAU in a service like pattern that can be deployed and configured by Microsoft Intune (or other MDM solutions).
 - [Altinn/stride-yaml](https://github.com/Altinn/stride-yaml) - 
 - [serverpod/serverpod](https://github.com/serverpod/serverpod) - Serverpod is a next-generation app and web server, explicitly built for the Flutter and Dart ecosystem.
