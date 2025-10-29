@@ -805,7 +805,7 @@
 ## others 
 
 - [heyitsnoah/claudesidian](https://github.com/heyitsnoah/claudesidian) - 
-- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service — Modern Open-Source Alternative to NSSM & WinSW
+- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service — Open-Source Alternative to NSSM, WinSW & FireDaemon Pro
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - 
 - [fabriziosalmi/tubeconv](https://github.com/fabriziosalmi/tubeconv) - Convert social videos to high-quality MP3 files
