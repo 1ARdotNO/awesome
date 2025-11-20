@@ -803,6 +803,8 @@
 
 ## others 
 
+- [jelhub/scimgateway](https://github.com/jelhub/scimgateway) - Using SCIM protocol as a gateway for user provisioning to other endpoints
+- [kubernetes/git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
 - [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
 - [heyitsnoah/claudesidian](https://github.com/heyitsnoah/claudesidian) - 
 - [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Full-Featured Alternative to NSSM, WinSW & FireDaemon Pro
