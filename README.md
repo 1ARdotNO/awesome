@@ -175,7 +175,7 @@
 
 ## ai 
 
-- [yooreekz/gpt2markdown](https://github.com/yooreekz/gpt2markdown) - A browser extension that exports your ChatGPT conversations to Markdown format.
+- [ricobuilds/gpt2markdown](https://github.com/ricobuilds/gpt2markdown) - A browser extension that exports your ChatGPT conversations to Markdown format.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 
@@ -299,7 +299,7 @@
 ## chatgpt 
 
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
-- [yooreekz/gpt2markdown](https://github.com/yooreekz/gpt2markdown) - A browser extension that exports your ChatGPT conversations to Markdown format.
+- [ricobuilds/gpt2markdown](https://github.com/ricobuilds/gpt2markdown) - A browser extension that exports your ChatGPT conversations to Markdown format.
 
 ## cli 
 
