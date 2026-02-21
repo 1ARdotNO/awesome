@@ -853,6 +853,7 @@
 
 ## others 
 
+- [pcvelz/superpowers](https://github.com/pcvelz/superpowers) - An agentic skills framework & software development methodology that works - CC task management support
 - [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
 - [byawitz/appwrite-k8s](https://github.com/byawitz/appwrite-k8s) - Kubernetes files for deploying HA Appwrite
 - [jelhub/scimgateway](https://github.com/jelhub/scimgateway) - Using SCIM protocol as a gateway for user provisioning to other endpoints
