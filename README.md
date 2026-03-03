@@ -182,7 +182,7 @@
 
 ## ai-agents 
 
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic'
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
 ## algorithm 
@@ -859,7 +859,7 @@
 - [heyitsnoah/claudesidian](https://github.com/heyitsnoah/claudesidian) - 
 - [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Full-Featured Alternative to NSSM, WinSW & FireDaemon Pro
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
-- [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - 
+- [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - Super simple group chat, without a subscription
 - [fabriziosalmi/tubeconv](https://github.com/fabriziosalmi/tubeconv) - Convert social videos to high-quality MP3 files
 - [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
