@@ -51,6 +51,7 @@
 - [education](#education)
 - [es6](#es6)
 - [eslint](#eslint)
+- [fastapi](#fastapi)
 - [firebase](#firebase)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
@@ -182,7 +183,7 @@
 
 ## ai-agents 
 
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic'
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
 ## algorithm 
@@ -454,6 +455,10 @@
 ## eslint 
 
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+
+## fastapi 
+
+- [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
 ## firebase 
 
