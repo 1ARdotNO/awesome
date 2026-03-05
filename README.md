@@ -855,6 +855,7 @@
 
 ## others 
 
+- [root-fr/jmap-webmail](https://github.com/root-fr/jmap-webmail) - Modern JMAP webmail client built for Stalwart Mail Server. Privacy-focused, responsive, with real-time updates.
 - [pcvelz/superpowers](https://github.com/pcvelz/superpowers) - An agentic skills framework & software development methodology that works - CC task management support
 - [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
 - [byawitz/appwrite-k8s](https://github.com/byawitz/appwrite-k8s) - Kubernetes files for deploying HA Appwrite
