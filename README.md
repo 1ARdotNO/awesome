@@ -632,7 +632,7 @@
 
 ## html 
 
-- [Meyou-code/snapload](https://github.com/Meyou-code/snapload) - SnapLoad — Desktop app to download Snapchat Memories
+- [Meyou-code/snapload](https://github.com/Meyou-code/snapload) - SnapLoad — Desktop app to download Snapchat Memories — Snapchat memories downloader
 - [imreyesjorge/root-startpage](https://github.com/imreyesjorge/root-startpage) - A simple and clean startpage 🌟
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
 
@@ -665,7 +665,7 @@
 
 ## javascript 
 
-- [Meyou-code/snapload](https://github.com/Meyou-code/snapload) - SnapLoad — Desktop app to download Snapchat Memories
+- [Meyou-code/snapload](https://github.com/Meyou-code/snapload) - SnapLoad — Desktop app to download Snapchat Memories — Snapchat memories downloader
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -1019,7 +1019,7 @@
 
 ## python 
 
-- [Meyou-code/snapload](https://github.com/Meyou-code/snapload) - SnapLoad — Desktop app to download Snapchat Memories
+- [Meyou-code/snapload](https://github.com/Meyou-code/snapload) - SnapLoad — Desktop app to download Snapchat Memories — Snapchat memories downloader
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [Ankermgmt/ankermake-m5-protocol](https://github.com/Ankermgmt/ankermake-m5-protocol) - Ankermake M5 protocol specifications and libraries *NOT AFFILIATED WITH ANKER*
