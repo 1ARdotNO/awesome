@@ -384,6 +384,7 @@
 
 ## developer-tools 
 
+- [lebedevnet/ReadmeForge](https://github.com/lebedevnet/ReadmeForge) - GitHub Profile README generator — 60+ technologies, live preview, 18 themes. Build your developer profile in 2 minutes.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
@@ -645,6 +646,7 @@
 
 ## html 
 
+- [lebedevnet/ReadmeForge](https://github.com/lebedevnet/ReadmeForge) - GitHub Profile README generator — 60+ technologies, live preview, 18 themes. Build your developer profile in 2 minutes.
 - [Meyou-code/snapload](https://github.com/Meyou-code/snapload) - SnapLoad — Desktop app to download Snapchat Memories — Snapchat memories downloader
 - [imreyesjorge/root-startpage](https://github.com/imreyesjorge/root-startpage) - A simple and clean startpage 🌟
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
@@ -849,6 +851,7 @@
 
 ## open-source 
 
+- [lebedevnet/ReadmeForge](https://github.com/lebedevnet/ReadmeForge) - GitHub Profile README generator — 60+ technologies, live preview, 18 themes. Build your developer profile in 2 minutes.
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
