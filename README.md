@@ -76,6 +76,7 @@
 - [google-cloud](#google-cloud)
 - [graphql](#graphql)
 - [gui](#gui)
+- [hack](#hack)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
@@ -619,6 +620,10 @@
 - [BenHerbst/idaesbasic](https://github.com/BenHerbst/idaesbasic) - Idaesbasic - An all in one project manager that stores everything in files directly into your project! 🤯
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 
+## hack 
+
+- [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
+
 ## hacking 
 
 - [factionsecurity/faction](https://github.com/factionsecurity/faction) - Pen Test Report Generation and Assessment Collaboration
@@ -907,7 +912,7 @@
 
 - [PetePeter/gamepad-cli-hub](https://github.com/PetePeter/gamepad-cli-hub) - 
 - [root-fr/jmap-webmail](https://github.com/root-fr/jmap-webmail) - Modern JMAP webmail client built for Stalwart Mail Server. Privacy-focused, responsive, with real-time updates.
-- [pcvelz/superpowers](https://github.com/pcvelz/superpowers) - An agentic skills framework & software development methodology that works - CC task management support
+- [pcvelz/superpowers](https://github.com/pcvelz/superpowers) - An agentic skills framework & software development methodology that works - Claude Code task management support
 - [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
 - [byawitz/appwrite-k8s](https://github.com/byawitz/appwrite-k8s) - Kubernetes files for deploying HA Appwrite
 - [jelhub/scimgateway](https://github.com/jelhub/scimgateway) - Using SCIM protocol as a gateway for user provisioning to other endpoints
