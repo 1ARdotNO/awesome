@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
@@ -181,6 +182,10 @@
 - [website](#website)
 - [windows](#windows)
 - [youtube](#youtube)
+
+## agents 
+
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 
 ## ai 
 
