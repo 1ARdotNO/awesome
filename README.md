@@ -247,7 +247,7 @@
 
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) - CISO Assistant is a one-stop-shop GRC platform for Risk Management, AppSec, Compliance & Audit, TPRM, Privacy, and Reporting. It supports 130+ global frameworks with automatic control mapping, includi
-- [JayRHa/Intune-App-Creator](https://github.com/JayRHa/Intune-App-Creator) - PowerShell tool for automated creation and packaging of Intune Win32 app deployments
+- [JayRHa/IntuneAppCreator](https://github.com/JayRHa/IntuneAppCreator) - PowerShell tool for automated creation, packaging, and deployment preparation of Intune Win32 apps.
 
 ## awesome 
 
@@ -1035,7 +1035,7 @@
 - [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) - Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and ed
 - [jdhitsolutions/WingetTools](https://github.com/jdhitsolutions/WingetTools) - A set of PowerShell tools for working with the winget package manager.
 - [Amadevus/pwsh-script](https://github.com/Amadevus/pwsh-script) - GitHub Action to run PowerShell scripts in a rich, prepared scope - inspired by actions/github-script.
-- [JayRHa/Intune-App-Creator](https://github.com/JayRHa/Intune-App-Creator) - PowerShell tool for automated creation and packaging of Intune Win32 app deployments
+- [JayRHa/IntuneAppCreator](https://github.com/JayRHa/IntuneAppCreator) - PowerShell tool for automated creation, packaging, and deployment preparation of Intune Win32 apps.
 - [stefanes/PSTibber](https://github.com/stefanes/PSTibber) - PowerShell module for accessing the Tibber GraphQL API
 - [PowerShell/platyPS](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown
 - [Microsoft365DSC/Microsoft365DSC](https://github.com/Microsoft365DSC/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations
