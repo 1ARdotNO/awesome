@@ -48,7 +48,6 @@
 - [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
-- [discord](#discord)
 - [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
@@ -174,7 +173,6 @@
 - [unreal-engine](#unreal-engine)
 - [video](#video)
 - [vim](#vim)
-- [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
@@ -440,10 +438,6 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 
-## discord 
-
-- [clementwzk/Discord-Tools](https://github.com/clementwzk/Discord-Tools) - VSCode extension allowing the integration of a Discord chat, bot templates, snippets, themes and more!
-
 ## distributed-systems 
 
 - [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
@@ -672,7 +666,6 @@
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
-- [clementwzk/Discord-Tools](https://github.com/clementwzk/Discord-Tools) - VSCode extension allowing the integration of a Discord chat, bot templates, snippets, themes and more!
 
 ## home-assistant 
 
@@ -1308,7 +1301,6 @@
 - [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
-- [clementwzk/Discord-Tools](https://github.com/clementwzk/Discord-Tools) - VSCode extension allowing the integration of a Discord chat, bot templates, snippets, themes and more!
 
 ## ui 
 
@@ -1329,10 +1321,6 @@
 ## vim 
 
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-
-## visual-studio-code 
-
-- [clementwzk/Discord-Tools](https://github.com/clementwzk/Discord-Tools) - VSCode extension allowing the integration of a Discord chat, bot templates, snippets, themes and more!
 
 ## visualization 
 
