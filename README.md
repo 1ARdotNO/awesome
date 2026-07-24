@@ -930,7 +930,6 @@
 
 ## others 
 
-- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [sandhani01/Hand-writing-generator](https://github.com/sandhani01/Hand-writing-generator) - 
 - [PetePeter/gamepad-cli-hub](https://github.com/PetePeter/gamepad-cli-hub) - 
 - [root-fr/jmap-webmail](https://github.com/root-fr/jmap-webmail) - Modern JMAP webmail client built for Stalwart Mail Server. Privacy-focused, responsive, with real-time updates.
