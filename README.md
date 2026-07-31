@@ -850,7 +850,7 @@
 
 ## monitoring 
 
-- [thecfu/scraparr](https://github.com/thecfu/scraparr) - Scraparr is a Prometheus Exporter for various components of the *arr Suite
+- [thecfu/scraparr](https://github.com/thecfu/scraparr) - Codeberg mirror --- Scraparr is a Prometheus Exporter for various components of the *arr Suite
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [Microsoft365DSC/Microsoft365DSC](https://github.com/Microsoft365DSC/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations
 
