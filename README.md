@@ -936,6 +936,7 @@
 
 ## others 
 
+- [JeffResc/actions-runner-scaleset-proxmox](https://github.com/JeffResc/actions-runner-scaleset-proxmox) - Ephemeral, single-use GitHub Actions self-hosted runners backed by Proxmox VMs.
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [sandhani01/Hand-writing-generator](https://github.com/sandhani01/Hand-writing-generator) - 
 - [PetePeter/gamepad-cli-hub](https://github.com/PetePeter/gamepad-cli-hub) - 
