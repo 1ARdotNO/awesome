@@ -302,6 +302,7 @@
 ## backend 
 
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
+- [serverpod/serverpod](https://github.com/serverpod/serverpod) - Serverpod is a next-generation app and web server, explicitly built for the Flutter and Dart ecosystem.
 - [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
@@ -410,6 +411,7 @@
 
 ## dart 
 
+- [serverpod/serverpod](https://github.com/serverpod/serverpod) - Serverpod is a next-generation app and web server, explicitly built for the Flutter and Dart ecosystem.
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 
 ## data-structures 
@@ -533,6 +535,7 @@
 
 ## flutter 
 
+- [serverpod/serverpod](https://github.com/serverpod/serverpod) - Serverpod is a next-generation app and web server, explicitly built for the Flutter and Dart ecosystem.
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
@@ -543,6 +546,7 @@
 
 ## framework 
 
+- [serverpod/serverpod](https://github.com/serverpod/serverpod) - Serverpod is a next-generation app and web server, explicitly built for the Flutter and Dart ecosystem.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
 
 ## frontend 
@@ -979,7 +983,6 @@
 - [Set-OutlookSignatures/Set-OutlookSignatures](https://github.com/Set-OutlookSignatures/Set-OutlookSignatures) - Data-Sovereign Email Signatures and Out-of-Office Replies. Your branding across every Outlook platform, with zero external data exposure.
 - [Weatherlights/Winget-AutoUpdate-Intune](https://github.com/Weatherlights/Winget-AutoUpdate-Intune) - WAUaaS daily updates apps as system and notify users. WAUaaS brings you WAU in a service like pattern that can be deployed and configured by Microsoft Intune (or other MDM solutions).
 - [Altinn/stride-yaml](https://github.com/Altinn/stride-yaml) - 
-- [serverpod/serverpod](https://github.com/serverpod/serverpod) - Serverpod is a next-generation app and web server, explicitly built for the Flutter and Dart ecosystem.
 - [patschi/parsedmarc-dockerized](https://github.com/patschi/parsedmarc-dockerized) - Dockerized self-initializing parsedmarc docker stack for lazy people
 - [R34LiAM/HA-Roller](https://github.com/R34LiAM/HA-Roller) - 
 - [rohitsangwan01/pocketbase_server_flutter_app](https://github.com/rohitsangwan01/pocketbase_server_flutter_app) - Pocketbase server using mobile with flutter
@@ -1064,6 +1067,7 @@
 
 ## postgresql 
 
+- [serverpod/serverpod](https://github.com/serverpod/serverpod) - Serverpod is a next-generation app and web server, explicitly built for the Flutter and Dart ecosystem.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 
 ## powershell 
@@ -1246,6 +1250,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+- [serverpod/serverpod](https://github.com/serverpod/serverpod) - Serverpod is a next-generation app and web server, explicitly built for the Flutter and Dart ecosystem.
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 
 ## serverless 
