@@ -187,6 +187,7 @@
 - [web3](#web3)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [youtube](#youtube)
 
 ## agent-skills 
@@ -201,7 +202,7 @@
 ## ai 
 
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
-- [stenolabs/stenoai](https://github.com/stenolabs/stenoai) - StenographAI is the secure privacy-first AI notepad & notetaker for confidential conversations in government & defence sectors. On Windows & MacOS.
+- [stenolabs/stenoai](https://github.com/stenolabs/stenoai) - StenographAI is the secure privacy-first AI notepad & notetaker for confidential conversations in government & defence sectors. On Windows, Linux & MacOS.
 - [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work.
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [phugadev/gpt2markdown](https://github.com/phugadev/gpt2markdown) - A browser extension that exports your ChatGPT conversations to Markdown format.
@@ -1086,7 +1087,7 @@
 ## privacy 
 
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
-- [stenolabs/stenoai](https://github.com/stenolabs/stenoai) - StenographAI is the secure privacy-first AI notepad & notetaker for confidential conversations in government & defence sectors. On Windows & MacOS.
+- [stenolabs/stenoai](https://github.com/stenolabs/stenoai) - StenographAI is the secure privacy-first AI notepad & notetaker for confidential conversations in government & defence sectors. On Windows, Linux & MacOS.
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
@@ -1412,7 +1413,7 @@
 
 ## windows 
 
-- [stenolabs/stenoai](https://github.com/stenolabs/stenoai) - StenographAI is the secure privacy-first AI notepad & notetaker for confidential conversations in government & defence sectors. On Windows & MacOS.
+- [stenolabs/stenoai](https://github.com/stenolabs/stenoai) - StenographAI is the secure privacy-first AI notepad & notetaker for confidential conversations in government & defence sectors. On Windows, Linux & MacOS.
 - [ikus060/minarca](https://github.com/ikus060/minarca) - Self-hosted opensource data backup for Linux, Windows and Mac. Git mirror of https://gitlab.com/ikus-soft/minarca
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
@@ -1420,6 +1421,10 @@
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
+## windows-11 
+
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## youtube 
 
