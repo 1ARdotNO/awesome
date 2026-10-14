@@ -996,7 +996,7 @@
 - [just-trey/ankermake-m5-profile](https://github.com/just-trey/ankermake-m5-profile) - Base repo for AnkerMake M5 configurations for Cura and PrusaSlicer.
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [azimjohn/jprq](https://github.com/azimjohn/jprq) - join public router. quickly.
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - WinUI app for building smaller, customized Windows 11 images.
 - [openziti/fabric](https://github.com/openziti/fabric) - Geo-scale overlay network and core network programming model
 - [DanTup/github-codespaces-flutter-web](https://github.com/DanTup/github-codespaces-flutter-web) - 
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
