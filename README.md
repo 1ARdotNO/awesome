@@ -56,6 +56,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [es6](#es6)
@@ -508,6 +509,10 @@
 
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+
+## downloader 
+
+- [Meyou-code/snapload](https://github.com/Meyou-code/snapload) - SnapLoad — Desktop app to download Snapchat Memories — Snapchat memories downloader
 
 ## dsh-plugin 
 
