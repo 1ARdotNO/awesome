@@ -976,6 +976,7 @@
 
 ## others 
 
+- [FileSherlock/k15](https://github.com/FileSherlock/k15) - A folder of static files as a bootable x86-64 HTTPS server of a few KB. Serves https://15kb.org/
 - [OSShield/fallbck](https://github.com/OSShield/fallbck) - Backup filesystems, databases, kubernetes and more
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 - [JeffResc/actions-runner-scaleset-proxmox](https://github.com/JeffResc/actions-runner-scaleset-proxmox) - Ephemeral, single-use GitHub Actions self-hosted runners backed by Proxmox VMs.
